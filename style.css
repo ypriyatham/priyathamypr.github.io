@@ -156,7 +156,7 @@ section .title::after{
     cursor: pointer;
     opacity: 0;
     pointer-events: none;
-    transition: all 0.3s ease;
+    transition: all 0.3s ease ;
 }
 .scroll-up-btn.show{
     bottom: 30px;
